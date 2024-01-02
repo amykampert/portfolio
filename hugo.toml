@@ -21,3 +21,8 @@ theme = 'lightbi'
     name = "Tags"
     url = "/tags/"
     weight = 2
+
+[[menu.main]]
+    name = "Over mij"
+    url = "/about/"
+    weight = 3
