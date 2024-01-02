@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://amy.kmprt.nl/'
 DefaultContentLanguage = "nl"
 languageCode = 'nl'
 title = 'Portfolio Amy Kampert'
