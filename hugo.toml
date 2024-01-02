@@ -26,3 +26,7 @@ theme = 'lightbi'
     name = "Over mij"
     url = "/about/"
     weight = 3
+
+[privacy]
+    [privacy.youtube]
+        privacyEnhanced = true
