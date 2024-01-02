@@ -5,4 +5,4 @@ tags: ["fanart", "digitaal"]
 image : "/images/posts/cerberus.png"
 ---
 
-...
+Geef een hond geen chocola
