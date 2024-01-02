@@ -1,7 +1,7 @@
 ---
 title: "Portable Soul"
 date: 2023-04-14
-tags: ["sculptuur", "school"]
+tags: ["sculptuur", "school", "eigen creatie"]
 image : "images/posts/portable-soul.jpg"
 ---
 
