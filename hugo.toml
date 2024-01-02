@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'nl'
+title = 'Portfolio Amy Kampert'
+theme = 'lightbi'
