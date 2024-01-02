@@ -5,7 +5,7 @@ title = 'Portfolio Amy Kampert'
 theme = 'lightbi'
 
 [Author]
-    name = 'Amy'
+    name = 'amy.kmprt.nl'
 
 [Params]
     hideAuthor = true
