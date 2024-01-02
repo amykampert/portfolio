@@ -9,7 +9,8 @@ theme = 'lightbi'
 
 [Params]
     hideAuthor = true
-
+    selfHosted = true
+    
 [[menu.main]]
     name = "Home"
     url = "/"
