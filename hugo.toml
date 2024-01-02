@@ -10,7 +10,8 @@ theme = 'lightbi'
 [Params]
     hideAuthor = true
     selfHosted = true
-    
+     previewCardImagePlacement = "top"
+
 [[menu.main]]
     name = "Home"
     url = "/"
