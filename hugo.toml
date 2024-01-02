@@ -10,7 +10,7 @@ theme = 'lightbi'
 [Params]
     hideAuthor = true
     selfHosted = true
-     previewCardImagePlacement = "top"
+    previewCardImagePlacement = "top"
 
 [[menu.main]]
     name = "Home"
