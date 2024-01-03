@@ -1,6 +1,6 @@
 ---
 title: "Lagoona Blue"
-date: 2023-09-02
+date: 2022-08-10
 tags: ["fanart", "digitaal"]
 image : "/images/posts/lagoona-blue.png"
 ---
