@@ -2,6 +2,7 @@
 type : "tags"
 layout : "about"
 title: "Over mij"
+image : "/images/about/amy.png"
 ---
 
 Mijn naam is Amy Kampert en ik ben 18 jaar oud. Al mijn hele leven vind ik het leuk om te tekenen. Sinds zes jaar ben ik er ook erg actief mee bezig. Vooral met het maken van personen. In het begin probeerde ik vooral te oefenen met het semirealisme, later werd dat iets hoekiger. Ik vind het echter ook leuk om andere stijlen uit te proberen. 
