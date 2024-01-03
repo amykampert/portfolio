@@ -4,9 +4,6 @@ languageCode = 'nl'
 title = 'Portfolio Amy Kampert'
 theme = 'lightbi'
 
-[Author]
-    name = 'amy.kmprt.nl'
-
 [Params]
     hideAuthor = true
     selfHosted = true
