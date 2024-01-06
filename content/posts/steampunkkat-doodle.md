@@ -5,4 +5,4 @@ tags: ["eigen-creatie", "papier", "doodle"]
 image : "/images/posts/steampunkkat-doodle.jpg"
 ---
 
-...
+Doodle van steampunkkattenmeisje getekend met pen.
