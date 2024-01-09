@@ -5,4 +5,3 @@ tags: ["eigen creatie", "papier"]
 image : "/images/posts/exidia-in-het-water.jpg"
 ---
 
-...
