@@ -5,11 +5,9 @@ tags: ["sculptuur", "school", "eigen creatie"]
 image : "images/posts/portable-soul.jpg"
 ---
 
-Voor deze praktische opdracht heb ik een hoed gemaakt om mijn ziel uit te drukken. 
+Voor deze schoolopdracht moesten we onze ziel uitdrukken in een kledingsstuk. Dat heb ik gedaan door een hoed te maken waar zoveel mogelijk eigenschappen over mij in terug te lezen zijn. Om er hiervan zoveel mogelijk in te stoppen heb ik geprobeerd symbolische en letterlijke dingen erin te verwerken.
 
-Ik heb geprobeerd symbolische en letterlijke dingen erin te verwerken om zoveel mogelijk eigenschappen erin te stoppen.
-
-De kleurrijke bollen zijn afgeleid van “bubbly personality” omdat wie ik ook spreek ze allemaal vinden dat ik dat wel heb. Om het er extra vrolijk uit te laten zien hebben ze ook oogjes gekregen. Daarmee druk ik gelijk mijn kinderachtige kant uit.
+De kleurrijke bollen zijn afgeleid van de eigenschap “bubbly personality”. Het maakt namelijk niet uit wie ik het vraag, maar iedereen die ik ken vind dat ik dat wel heb vanwege mijn vrolijkheid en optimisme. Om het er extra vrolijk uit te laten zien hebben ze ook wiebeloogjes gekregen. Daarmee druk ik gelijk mijn kinderachtige kant uit.
 
 ![Portable Soul rechts](portable-soul-rechts.jpg)
 
