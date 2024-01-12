@@ -5,4 +5,4 @@ tags: ["digitaal"]
 image : "/images/posts/indigo-verandert-in-mos.png"
 ---
 
-De basis van dit karakter komt van mijn vriendinnen. Ik heb het moment uit het verhaal getekend dat ze besmet is door een virus die ervoor zorgt dat haar lichaam omgezet wordt in mos. Dit moet een walgelijk moment voorstellen waardoor ik meteen kon oefenen met gezichtsuitdrukking.
+Hier heb ik een karakter getekend in het deel van het verhaal dat ze vervloekt is waardoor ze langzaam verandert in mos. Dit moet een walgelijk moment voorstellen waardoor ik meteen kon oefenen met gezichtsuitdrukking. Omdat ik dit karakter samen met mijn vriendinnen bedacht heb, weet ik niet of ik dit onder eigen creatie kan laten vallen. Daarom staat die hashtag er niet bij.
