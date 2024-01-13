@@ -1,7 +1,7 @@
 ---
 title: "Me Myself And I"
 date: 2021-11-29
-tags: ["eigen creatie", "sculptuur", "school"]
+tags: ["eigen creatie", "sculptuur", "school", "uitgelicht"]
 image : "/images/posts/me-myself-and-i.png"
 ---
 

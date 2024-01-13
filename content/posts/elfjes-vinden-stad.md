@@ -1,7 +1,7 @@
 ---
 title: "Elfjes vinden stad"
 date: 2023-04-06
-tags: ["eigen creatie", "digitaal"]
+tags: ["eigen creatie", "digitaal", "uitgelicht"]
 image : "/images/posts/elfjes-vinden-stad.png"
 ---
 

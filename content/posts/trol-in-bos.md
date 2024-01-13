@@ -1,7 +1,7 @@
 ---
 title: "Trol In Het Bos"
 date: 2022-10-30
-tags: ["eigen creatie", "sculptuur"]
+tags: ["eigen creatie", "sculptuur", "uitgelicht"]
 image : "/images/posts/trol-in-bos.png"
 ---
 

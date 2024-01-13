@@ -1,7 +1,7 @@
 ---
 title: "Zeemeerman"
 date: 2023-03-21
-tags: ["eigen creatie", "papier"]
+tags: ["eigen creatie", "analoog", "uitgelicht"]
 image : "/images/posts/zeemeerman.jpg"
 ---
 
