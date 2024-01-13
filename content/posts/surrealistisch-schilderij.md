@@ -1,7 +1,7 @@
 ---
 title: "Surrealistisch Schilderij"
 date: 2022-01-23
-tags: ["eigen creatie", "school"]
+tags: ["eigen creatie", "school", "analoog"]
 image : "/images/posts/surrealistisch-schilderij.jpg"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Bleekmiddelshirt Met Paddenstoelen"
 date: 2021-06-07
-tags: ["eigen creatie", "sculptuur"]
+tags: ["eigen creatie", "analoog"]
 image : "/images/posts/shirt-met-paddenstoelen.jpg"
 ---
 

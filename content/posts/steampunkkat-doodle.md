@@ -1,7 +1,7 @@
 ---
 title: "Steampunkkat"
 date: 2023-09-02
-tags: ["eigen-creatie", "papier", "doodle"]
+tags: ["eigen-creatie", "analoog", "doodle"]
 image : "/images/posts/steampunkkat-doodle.jpg"
 ---
 

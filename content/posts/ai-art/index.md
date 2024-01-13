@@ -1,7 +1,7 @@
 ---
 title: "AI-Kunst"
 date: 2023-02-16
-tags: ["eigen creatie", "digitaal", "papier", "school"]
+tags: ["eigen creatie", "digitaal", "analoog", "school"]
 image : "/images/posts/ai-kunst.jpg"
 ---
 
