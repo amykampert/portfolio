@@ -3,6 +3,7 @@ title: "Portable Soul"
 date: 2023-04-14
 tags: ["sculptuur", "school", "eigen creatie"]
 image : "images/posts/portable-soul.jpg"
+type: "uitgelicht"
 ---
 
 Voor deze schoolopdracht moesten we onze ziel uitdrukken in een kledingsstuk. Dat heb ik gedaan door een hoed te maken waar zoveel mogelijk eigenschappen over mij in terug te lezen zijn. Om er hiervan zoveel mogelijk in te stoppen heb ik geprobeerd symbolische en letterlijke dingen erin te verwerken.

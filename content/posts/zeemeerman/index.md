@@ -3,7 +3,6 @@ title: "Zeemeerman"
 date: 2023-03-21
 tags: ["eigen creatie", "analoog"]
 image : "/images/posts/zeemeerman.jpg"
-type: "uitgelicht"
 ---
 
 Hier heb ik een karakter die ik vroeger op 11 januari 2020 bedacht heb hertekend. 
