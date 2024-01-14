@@ -9,11 +9,11 @@ Voor deze schoolopdracht moesten we onze ziel uitdrukken in een kledingsstuk. Da
 
 Als eerste zie je een hoop bollen naast een huisje aan het water met waterlelies ervoor. Het huis laat het huis zien waar we wonen, iets wat toch wel een belangrijke rol in je leven speelt. De waterlelies heb ervoor gezet, niet alleen omdat we daadwerkelijk waterlelies voor ons huis hebben, maar ook omdat ik hou van planten en dit verwijst naar het sprookje indische waterlelies. Daarom is het ook nacht met volle maan. Zo laat ik ook zien dat ik sprookjes en verhaaltjes leuk vind.
 
-![Portable Soul rechts](portable-soul-rechts.jpg)
+![Portable Soul rechts](portable-soul-rechts.png)
 
 De kleurrijke bollen zijn afgeleid van de eigenschap “bubbly personality”. Het maakt namelijk niet uit wie ik het vraag, maar iedereen die ik ken vind dat ik dat wel heb vanwege mijn vrolijkheid en optimisme. Om het er extra vrolijk uit te laten zien hebben ze ook wiebeloogjes gekregen. Daarmee druk ik gelijk mijn kinderachtige kant uit.
 
-![Portable Soul links](portable-soul-links.jpg)
+![Portable Soul links](portable-soul-links.png)
 
 Het water voor het huis gaat over in de zee. Het strand straalt kalmte uit, wat ik over het algemeen ook wel ben. Bovendien is de zomer mijn favoriete seizoen, en dan gaan we vaak naar het strand.
 
