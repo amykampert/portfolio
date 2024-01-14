@@ -3,6 +3,7 @@ title: "Vissend meisje"
 date: 2023-12-27
 tags: ["eigen creatie", "digitaal"]
 image : "/images/posts/meisje-vist.png"
+summary: "Experimenteren met cartoon stijl."
 type: "uitgelicht"
 ---
 

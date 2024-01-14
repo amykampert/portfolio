@@ -1,12 +1,15 @@
 ---
-title: "AI-Kunst"
+title: "AI onderzoek"
 date: 2023-02-16
 tags: ["eigen creatie", "digitaal", "analoog", "school"]
 image : "/images/posts/ai-kunst.jpg"
+summary: "Kunnen AI schilderijen in dezelfde mate emoties overbrengen als schilderijen die mensen creëren?"
 type: "uitgelicht"
 ---
 
-Voor een schoolopdracht ben ik aan het onderzoeken of AI schilderijen kan creëren die in dezelfde mate emoties overbrengen als schilderijen die mensen creëren. Daarvoor heb ik vier expressionistische schilderijen gemaakt en AI op basis van die schilderijen ook expressionistische schilderijen laten maken.
+Voor een schoolopdracht ben ik aan het onderzoeken of AI schilderijen kan creëren die in dezelfde mate emoties overbrengen als schilderijen die mensen creëren. 
+
+Daarvoor heb ik vier expressionistische schilderijen gemaakt en AI op basis van die schilderijen ook expressionistische schilderijen laten maken.
 
 Schilderij Met Bloementuin
 ![Schilderij Bloemen](schilderij-bloemenmeisje.png) 

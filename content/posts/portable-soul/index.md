@@ -3,6 +3,7 @@ title: "Portable Soul"
 date: 2023-04-14
 tags: ["sculptuur", "school", "eigen creatie"]
 image : "images/posts/portable-soul.jpg"
+summary: "Mijn ziel uitgedrukt in een kledingsstuk voor school."
 type: "uitgelicht"
 ---
 

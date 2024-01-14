@@ -3,6 +3,7 @@ title: "Trol In Het Bos"
 date: 2022-10-30
 tags: ["eigen creatie", "sculptuur"]
 image : "/images/posts/trol-in-bos.png"
+summary: "Trol van ijzerdraad, vilt, klei en het haar van een barbie."
 type: "uitgelicht"
 ---
 
