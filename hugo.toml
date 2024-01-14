@@ -3,27 +3,34 @@ DefaultContentLanguage = "nl"
 languageCode = 'nl'
 title = 'Portfolio Amy Kampert'
 theme = 'lightbi'
+Paginate = 9
 
 [Params]
+    mainSections = ["uitgelicht"]
     hideAuthor = true
     selfHosted = true
     previewCardImagePlacement = "top"
     showRelatedPosts = true
 
 [[menu.main]]
-    name = "Home"
+    name = "Uitgelicht"
     url = "/"
     weight = 1
 
 [[menu.main]]
+    name = "Alles"
+    url = "/posts"
+    weight = 2
+
+[[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     name = "Over mij"
     url = "/about/"
-    weight = 3
+    weight = 4
 
 [privacy]
     [privacy.youtube]
